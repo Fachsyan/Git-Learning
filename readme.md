@@ -1,5 +1,7 @@
 # **Git Learning**
 
+[E-Book For Git Guide](https://drive.google.com/file/d/1WZqUf7uMCjVH5A7vXGqymX4PJyJ-F0Vp/view?usp=sharing)
+
 ## Step By Step Guide
 
 1. Clone the repository
