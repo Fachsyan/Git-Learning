@@ -5,7 +5,9 @@
 ## _Notes For Wifes_
 
 - I Really **Love** _Makima❤️~_
+  ![Makima](image/makima.png)
 - I Really **Love** _Chang-Li❤️~_
+  ![Chang-Li](image/changli.png)
 
 ---
 
