@@ -1,5 +1,7 @@
 # **Git Learning**
 
+---
+
 ## _Notes For Makima_
 
 - I Really **Love** _Makima❤️~_
@@ -29,8 +31,6 @@
   `git push -u origin main`
 - Next Use
   `git push origin main`
-
----
 
 ## Writing A Good Commit:
 
