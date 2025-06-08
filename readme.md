@@ -1,18 +1,5 @@
 # **Git Learning**
 
----
-
-## _Notes For Wifes_
-
-- I Really **Love** _Makima❤️~_
-  ![Makima](image/makima.png)
-- I Really **Love** _Chang-Li❤️~_
-  ![Chang-Li](image/changli.png)
-- I Really **Love** _Kafka❤️~_
-  ![Chang-Li](image/kafka.png)
-
----
-
 ## Step By Step Guide
 
 1. Clone the repository
@@ -54,3 +41,16 @@ _If applied to the codebase, this commit will `______`_
 
 - Stick to a clear and predictable format like `feature/`, `bugfix/`, or `hotfix/` followed by a short description.
 - Example: `feature/user-authentication`, `bugfix/navbar-alignment`.
+
+---
+
+## _Notes For Wifes_
+
+- I Really **Love** _Makima❤️~_
+  ![Makima](image/makima.png)
+- I Really **Love** _Chang-Li❤️~_
+  ![Chang-Li](image/changli.png)
+- I Really **Love** _Kafka❤️~_
+  ![Chang-Li](image/kafka.png)
+
+---
