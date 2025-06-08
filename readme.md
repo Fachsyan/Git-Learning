@@ -2,7 +2,7 @@
 
 ---
 
-## _Notes For Makima_
+## _Notes For Wifes_
 
 - I Really **Love** _Makima❤️~_
 - I Really **Love** _Chang-Li❤️~_
@@ -23,14 +23,23 @@
 ## Git Init
 
 - Git Starting
+
   `git init`
+
 - Change Branch Name
+
   `git branch -M main`
+
 - Add Origin (origin = [link_github])
+
   `git remote add origin [link_github]`
+
 - Only Use The -u On The First Time
+
   `git push -u origin main`
+
 - Next Use
+
   `git push origin main`
 
 ## Writing A Good Commit:
